@@ -7,30 +7,30 @@
    analogies, and avoid unnecessary technical details.
 
 ## 2. What are some strategies to tailor your content to different audience types?
-   (i) Adjust language complexity: Use simple language for beginners and technical terms for experts.
-   (ii) Provide layered explanations: Start with a high-level overview and offer deeper details for those who want them.
-   (iii) Use analogies and real-world examples: Relate concepts to familiar ideas especially for the non-experts.
-   (iv) Include a glossary: Define technical terms for mixed audiences.
-   (v) Offer different formats: Use text, videos, and infographics to cater to different learning preference
+   1. Adjust language complexity: Use simple language for beginners and technical terms for experts.
+   2.  Provide layered explanations: Start with a high-level overview and offer deeper details for those who want them.
+   3.   Use analogies and real-world examples: Relate concepts to familiar ideas especially for the non-experts.
+   4.    Include a glossary: Define technical terms for mixed audiences.
+   5. Offer different formats: Use text, videos, and infographics to cater to different learning preference
    
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-   (i) By conducting surveys or interviews before presenting information.
-   (ii) By paying attention to questions and feedback to identify knowledge gaps.
-   (iii) Observing audience demographics for example their job roles, tech knowledge, age, specializations etc.
-   (iv) By use of progressive disclosure which is strating with the basics and slowly increasing complexity.
+   1. By conducting surveys or interviews before presenting information.
+   2. By paying attention to questions and feedback to identify knowledge gaps.
+   3. Observing audience demographics for example their job roles, tech knowledge, age, specializations etc.
+   4. By use of progressive disclosure which is strating with the basics and slowly increasing complexity.
    
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
-   (i) Use plain language: Avoid unnecessary technical terms.
-   (ii) Break down complex topics: Explain step by step.
-   (iii) Include visuals: Diagrams, flowcharts, and illustrations can simplify explanations.
-   (iv) Use analogies: Relate concepts to everyday experiences.
-   (v) Provide a summary: Give key takeaways upfront and even at the end of presentations.
+   1.  Use plain language: Avoid unnecessary technical terms.
+   2. Break down complex topics: Explain step by step.
+   3. Include visuals: Diagrams, flowcharts, and illustrations can simplify explanations.
+   4. Use analogies: Relate concepts to everyday experiences.
+   5. Provide a summary: Give key takeaways upfront and even at the end of presentations.
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
-   (i) It improves understanding for a wider audience.
-   (ii) It reduces misinterpretation of critical information.
-   (iii) It enhances audience engagement and retention.
-   (iv) It makes content more inclusive for non-experts.
+   1. It improves understanding for a wider audience.
+   2. It reduces misinterpretation of critical information.
+   3. It enhances audience engagement and retention.
+   4. It makes content more inclusive for non-experts.
    
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
    Technical: "Authenticate your credentials" → Simple: "Log in"
@@ -42,32 +42,32 @@
    Combining both helps reinforce audience understanding and retention.
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-   (i) Flowcharts: Best for illustrating processes and decision-making steps.
-   (ii) Diagrams: Useful for system architectures, components, and relationships.
-   (iii) Graphs/Charts: Effective for showing data trends and comparisons.
-   (iv) Screenshots: Helpful for software tutorials and user guides.
+   1. Flowcharts: Best for illustrating processes and decision-making steps
+   2. Diagrams: Useful for system architectures, components, and relationships.
+   3. Graphs/Charts: Effective for showing data trends and comparisons.
+   4. Screenshots: Helpful for software tutorials and user guides.
    
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
-   (i) Break content into logical sections.
-   (ii) Make scanning easier for readers.
-   (iii) Highlight key points quickly.
-   (iv) Improve document navigation.
+   1. Break content into logical sections.
+   2. Make scanning easier for readers.
+   3. Highlight key points quickly.
+   4. Improve document navigation.
    
 ## 10. What are some best practices for creating effective headings and subheadings?
-   (i) Keep them concise and descriptive.
-   (ii) Use consistent formatting in terms of font type, style, size among others.
-   (iii) Make them hierarchical for example the main headings can be larger than the subheadings
-   (iv) Use action-oriented phrases when relevant (e.g., "How to Install X").
+   1. Keep them concise and descriptive.
+   2. Use consistent formatting in terms of font type, style, size among others.
+   3. Make them hierarchical for example the main headings can be larger than the subheadings
+   4. Use action-oriented phrases when relevant (e.g., "How to Install X").
    
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-   (i) Product name and purpose: This gives the user an overview of what the product does 
-   (ii) Key features of the product.
-   (iii) Target audience: Which demograhic is the product made for
-   (iv) Quick start or installation instructions (How to begin).
-   (v) Tutorials on how to use major features of the product
+   1. Product name and purpose: This gives the user an overview of what the product does
+   2. Key features of the product.
+   3. Target audience: Which demograhic is the product made for
+   4. Quick start or installation instructions (How to begin).
+   5. Tutorials on how to use major features of the product
    
 ## 12. How can you succinctly convey the purpose and key features of a product?
-   (i) Use a one-liner or very short summaries 
-   (ii) List key features in bullet points.
-   (iii) Highlight unique selling points concisely.
-   (iv) Provide a short example or use case.
+   1. Use a one-liner or very short summaries 
+   2. List key features in bullet points.
+   3. Highlight unique selling points concisely.
+   4. Provide a short example or use case.
